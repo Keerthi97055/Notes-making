@@ -1,0 +1,25 @@
+body{
+    background-image: url('notes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.sub{
+    background-color: lightblue;
+    text-align: center;
+    height: 55px;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
+.card{
+    margin-top: 3%;
+}
+
+.search{
+    margin-left: 15%;
+}
+
